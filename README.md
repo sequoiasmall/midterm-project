@@ -63,7 +63,7 @@ right.</p>
 <br>
 <br>
 <!--THIS IS MY SIDE COLUMN CONTENT-->
-<iframe width="650" height="315" src="https://www.youtube.com/embed/oqxAJKy0ii4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="615" src="https://www.youtube.com/embed/oqxAJKy0ii4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
  <br>
  <br>
