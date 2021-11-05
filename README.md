@@ -29,7 +29,7 @@
 <h3>November 3, 2021</h3>
 </div>
 </div>
-<br>
+<br> 
 <!-- THIS BEGINS MY CONTENT SPACE -->
 <div class="grid-x grid-padding-x">
 <div class="large-8 medium-8 small-12 cell box2">
