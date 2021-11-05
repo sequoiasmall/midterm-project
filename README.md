@@ -1,4 +1,3 @@
-<!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -73,9 +72,6 @@ right.</p>
 <p style="font-family: 'Noto Sans Display', sans-serif; font-size: 15px; color: black; text-align: center; font-style: italic;">-Lee Hark-joon, professor of Kyungil University</p>  
 <br>
 <div class="infogram-embed" data-id="87318e40-cfec-4b52-8a83-dbbdeeb2708e" data-type="interactive" data-title="Untitled slide project"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/87318e40-cfec-4b52-8a83-dbbdeeb2708e" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled slide project</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-</div>
-</div>
-</div>
 </div>
 <div class="grid-x grid-padding-x">
 <div class="large-12 cell box4">
@@ -186,8 +182,5 @@ and bad deeds affect a person in the afterlife.</p>
 <p>Based on the recent success of Korean shows abroad, Mr. Jang said he hopes 
 viewers will flock to the new series. “The takeaway is: what sells in 
 South Korea sells globally.”</p>
-</div>
-</div>
-  </body>
 </div>
 </div>
